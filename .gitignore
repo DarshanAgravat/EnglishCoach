@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# But include these files
+!*.ps1
+!*.bat
+
+# Ignore specific files/folders explicitly
+!*.gitignore
